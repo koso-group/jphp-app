@@ -1,0 +1,9 @@
+name: jphp-app
+version: 0.0.1
+description: The jphp Application Support Library
+deps:
+  jphp-core: '*'
+  jphp-zend-ext: '*'
+  
+sources:
+- src-php
